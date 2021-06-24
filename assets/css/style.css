@@ -1443,3 +1443,35 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.portfolio-1{
+  width: 100%;
+}
+
+button.btn-2 {
+  background: #0078FF;
+  border: none;
+  border-radius: 0.5rem ;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease-in-out;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+button.btn-2:hover{
+  opacity: 0.8;
+}
+
+.portfolio-mf{
+  text-align: center;
+}
+
+.password-note{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: 10px;
+  color: #4e4e4e;
+}
+mark{
+  color: #18d26e;
+}
